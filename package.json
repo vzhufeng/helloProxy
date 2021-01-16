@@ -10,7 +10,7 @@
   "author": "vzhufeng",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": ">=0.21.1",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1"
   }
